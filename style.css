@@ -528,29 +528,7 @@ nav ul.show{display:flex;}
 /* ===== MOBILE HERO FIX ===== */
 @media (max-width: 768px) {
 
-  .hero {
-    height: auto;
-    padding: 50px 15px;
-    margin-bottom: -40px; /* fix negative margin */
-  }
 
-  .hero-overlay {
-    padding: 25px 15px;
-    
-
-  }
-  
-  .hero-text h2 {
-    font-size: 22px;
-    line-height: 1.3;
-    margin-bottom: 10px;
-  }
-
-  .hero-text p {
-    font-size: 14px;
-    line-height: 1.5;
-    margin-bottom: 20px;
-  }
 
   .hero-buttons {
     display: flex;
@@ -566,6 +544,7 @@ nav ul.show{display:flex;}
 
   }
 }
+
 
 
 
